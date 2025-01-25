@@ -4,30 +4,25 @@
 
 第一步
 
-cursor客户端退出登录
-
+cursor客户端退出正在用的账号，并且在官网删除账号。
 退出cursor客户端
 
 第二步
+使用这位大佬的https://github.com/yuaotian/go-cursor-help
+macOS
 
-登录cursor官网删除账号：
+curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash 
+Linux
 
-点击Advanced 删除账号，会提示你输入 Delete 确认删除。
+curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash 
+Windows
+
+irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 
 第三步
 
-重新打开cursor
+打开cursor客户端 用之前删除的正在用的账号登录
 
 第四步
 
-下载下面项目的软件，一键重置
-
-https://github.com/Elawen-Carl/Cursor_Pro_Helper/
-
-使用方法：
-
-![yijianchongzhi](https://github.com/user-attachments/assets/2a67ef37-2b9f-41fa-919e-a396028e7cf3)
-
-第五步
-
-打开cursor客户端登录
+愉快的食用！
