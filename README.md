@@ -9,6 +9,7 @@ cursor客户端退出正在用的账号，并且在官网删除账号。
 
 第二步
 使用这位大佬的https://github.com/yuaotian/go-cursor-help
+
 macOS
 
 curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash 
