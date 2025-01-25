@@ -28,3 +28,6 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 第四步
 
 愉快的食用！
+
+![image](https://github.com/user-attachments/assets/83ef8933-300d-43ab-844b-4a3fde97f47d)
+
