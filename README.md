@@ -12,7 +12,7 @@ cursor客户端退出正在用的账号，并且在官网删除账号。
 
 重点：使用别的邮箱登录客户端！
 
-退出cursor客户端
+关闭cursor客户端
 
 第二步
 使用这位大佬的https://github.com/yuaotian/go-cursor-help
