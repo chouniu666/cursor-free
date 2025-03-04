@@ -7,8 +7,6 @@
 cursor客户端退出正在用的账号，并且在官网删除账号。
 
 
-关闭cursor客户端
-
 第二步
 使用这位大佬的https://github.com/yuaotian/go-cursor-help
 也可以直接复制以下命令
