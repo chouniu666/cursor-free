@@ -23,13 +23,9 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 
 第三步
 
-打开cursor客户端 
+打开cursor客户端
 
-用之前删除的正在用的账号登录!
-
-用之前删除的正在用的账号登录
-
-用之前删除的正在用的账号登录
+登录
 
 第四步
 
